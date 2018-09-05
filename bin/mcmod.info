@@ -1,0 +1,12 @@
+[{
+  "modid": "gsb-mod",
+  "name": "Grayson's Mod",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "logoFile": "assets/examplemod/textures/logo.png",
+  "url": "minecraftforge.net/",
+  "updateJSON": "minecraftforge.net/versions.json",
+  "authorList": ["Author"],
+  "credits": "I'd like to thank my mother and father."
+}]
